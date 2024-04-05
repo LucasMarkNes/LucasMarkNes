@@ -7,7 +7,7 @@
 </div>
 
 ###  Sobre:
-##  Busco melhorar o meu redor com tecnologia e conheicmento, misturando arte e código para criar experiências únicas.
+##  Estou em busca de enriquecer meu ambiente através da sinergia entre tecnologia e conhecimento, harmonizando arte e programação para conceber experiências singulares e impactantes.
 
 
 # Projetos:
