@@ -44,7 +44,7 @@
 
 - Software, Sistemas operacionais e administração de rede:
 
-    [![programsSO](https://skillicons.dev/icons?i=windows,linux,debian,arch,mint,)](https://skillicons.dev) 
+    [![programsSO](https://skillicons.dev/icons?i=windows,linux,debian,mint,)](https://skillicons.dev) 
 
 
 
