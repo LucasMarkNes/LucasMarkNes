@@ -40,7 +40,7 @@
 
 - Ferramentas, Tecnologias e Programas:
 
-    [![Ferramentas](https://skillicons.dev/icons?i=git,github,visualstudio,idea,eclipse,androidstudio,blender,ps)](https://skillicons.dev)
+    [![Ferramentas](https://skillicons.dev/icons?i=git,github,visualstudio,idea,eclipse,androidstudio,godot,blender,ps)](https://skillicons.dev)
 
 - Software, Sistemas operacionais e administração de rede:
 
